@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017-09-16 09:06:31。
+     1>项目“J:\matlab2c软件制作\基础教程-实数矩阵\测试\测试.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(1019): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(236): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(248): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(1853): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(1110): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(1115): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(1124): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\main.cpp(12): warning C4930: “Matlab2c::Matrix matrix1(void)”: 未调用原型函数(是否是有意用变量定义的?)
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(184): warning C4018: “<”: 有符号/无符号不匹配
+                 j:\matlab2c软件制作\基础教程-实数矩阵\测试\main.cpp(28): 参见对正在编译的函数 模板 实例化“Matlab2c::Matrix::Matrix<double>(std::vector<_Ty>)”的引用
+                 with
+                 [
+                     _Ty=double
+                 ]
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(190): warning C4018: “<”: 有符号/无符号不匹配
+                 j:\matlab2c软件制作\基础教程-实数矩阵\测试\main.cpp(29): 参见对正在编译的函数 模板 实例化“Matlab2c::Matrix::Matrix<double>(std::vector<_Ty>,int,int)”的引用
+                 with
+                 [
+                     _Ty=double
+                 ]
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(199): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\基础教程-实数矩阵\测试\matlab2c.h(285): warning C4715: “Matlab2c::Matrix::str2matrix”: 不是所有的控件路径都返回值
+       Link:
+         G:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\matlab2c软件制作\基础教程-实数矩阵\Debug\基础教程.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"J:\matlab2c软件制作\基础教程-实数矩阵\Debug\基础教程.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\matlab2c软件制作\基础教程-实数矩阵\Debug\基础教程.lib" /MACHINE:X86 Debug\main.obj
+         测试.vcxproj -> J:\matlab2c软件制作\基础教程-实数矩阵\Debug\基础教程.exe
+     1>已完成生成项目“J:\matlab2c软件制作\基础教程-实数矩阵\测试\测试.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.00

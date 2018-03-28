@@ -1,0 +1,155 @@
+﻿生成启动时间为 2017-12-06 19:35:19。
+     1>项目“J:\matlab2c软件制作\matrix\matlab2c\matlab2c.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MATLAB2C_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt complex1.cpp file1.cpp main1.cpp matrix1.cpp matrix2.cpp matrix3.cpp matrix4.cpp matrix5.cpp numerical1.cpp probability1.cpp signal1.cpp String.cpp time.cpp vector1.cpp
+         vector1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\vector1.cpp(732): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(183): warning C4018: “<”: 有符号/无符号不匹配
+                 j:\matlab2c软件制作\matrix\matlab2c\vector1.cpp(744): 参见对正在编译的函数 模板 实例化“Matlab2c::Matrix::Matrix<double>(std::vector<_Ty>,int,int)”的引用
+                 with
+                 [
+                     _Ty=double
+                 ]
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(192): warning C4018: “<”: 有符号/无符号不匹配
+         time.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         String.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\string.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\string.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+         signal1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\signal1.cpp(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         probability1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\probability1.cpp(17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         numerical1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         matrix5.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         matrix4.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matrix4.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matrix4.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+         matrix3.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         matrix2.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         matrix1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         main1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\main1.cpp(35): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\vs2012\vc\include\stdio.h(357) : 参见“sprintf”的声明
+         file1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         complex1.cpp
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1012): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::Matrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(241): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1846): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“Matlab2c::CMatrix”的左侧
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1103): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>j:\matlab2c软件制作\matrix\matlab2c\matlab2c.h(1117): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         G:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\matlab2c软件制作\matrix\Debug\Matlab2c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"J:\matlab2c软件制作\matrix\Debug\Matlab2c.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\matlab2c软件制作\matrix\Debug\Matlab2c.lib" /MACHINE:X86 /DLL Debug\complex1.obj
+         Debug\file1.obj
+         Debug\main1.obj
+         Debug\matrix1.obj
+         Debug\matrix2.obj
+         Debug\matrix3.obj
+         Debug\matrix4.obj
+         Debug\matrix5.obj
+         Debug\numerical1.obj
+         Debug\probability1.obj
+         Debug\signal1.obj
+         Debug\String.obj
+         Debug\time.obj
+         Debug\vector1.obj
+            正在创建库 J:\matlab2c软件制作\matrix\Debug\Matlab2c.lib 和对象 J:\matlab2c软件制作\matrix\Debug\Matlab2c.exp
+         matlab2c.vcxproj -> J:\matlab2c软件制作\matrix\Debug\Matlab2c.dll
+     1>已完成生成项目“J:\matlab2c软件制作\matrix\matlab2c\matlab2c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.36
