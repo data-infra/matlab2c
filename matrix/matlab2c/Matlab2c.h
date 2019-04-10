@@ -279,7 +279,7 @@ public:
 				delete [] date_temp;
 				date_temp = 0;
 				
-				return Matrix(1,num,date_temp);    //分析增量矩阵，返回成行向量，按道理也可以返回成列矩阵
+				return r;    //分析增量矩阵，返回成行向量，按道理也可以返回成列矩阵
 			}
 		}else
 		{
