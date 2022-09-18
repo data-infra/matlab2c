@@ -1,3 +1,4 @@
+
 开发注意事项：
 
 1、目前matlab2c对矩阵的实现仅包含实数型、复数型数据。实数型矩阵使用Matrix定义，复数型矩阵使用CMatrix定义。
@@ -24,3 +25,5 @@ using namespace Matlab2c;
 #include "Matlab2c.h"
 #pragma comment(lib,"Matlab2c.lib")  
 using namespace Matlab2c;
+
+需要vs studio打开编辑
